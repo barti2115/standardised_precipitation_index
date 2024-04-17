@@ -1,3 +1,11 @@
 requests
 bs4
 certifi
+pandas
+pyarrow
+fastparquet
+geopy
+geopandas
+shapely
+ipykernel
+matplotlib
