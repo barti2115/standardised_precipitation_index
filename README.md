@@ -55,3 +55,9 @@ The purpose of this project is to calculate Standardized Precipitation Index (SP
 - **Precipitation Data**:
     - Location: `data/precipation`
     - Contains CSV files downloaded from [IMGW](https://danepubliczne.imgw.pl/) website, organized into directories named after the year of the data.
+### EDA and SPI
+1. Run the `analysis.sh` script:
+    ```bash
+    bash analysis.sh
+    ```
+    Run scripts in Python performing EDA analysis, SPI calculation and visualization of results.
